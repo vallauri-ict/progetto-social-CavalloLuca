@@ -1,0 +1,19 @@
+body{
+    overflow-x: hidden;
+}
+
+a{
+    color: black;
+}
+a:hover{
+    color:black;
+    text-decoration: none;
+}
+p{
+    margin-bottom: 0px;
+}
+.row{
+    border-bottom: 1px solid darkgrey;
+    padding: 3%;
+    background-color: #EEE;
+}

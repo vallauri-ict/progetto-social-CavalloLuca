@@ -1,0 +1,55 @@
+body{
+    background-image: url("../img/sfondo2.jpg");
+    background-attachment: fixed;
+    font-size: 17pt;
+    color: black;
+}
+#header{
+    padding: 3%;
+    background-color: #BBB;
+    text-align: center;
+}
+input{
+    background-color: #BBB;
+}
+.row{
+    border: 0px solid white!important;
+
+}
+
+.anaglyphTitle {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	border: none;
+	font: normal 2em/normal "Chau Philomene One", Helvetica, sans-serif;
+	color: rgb(51, 51, 51);
+	text-align: center;
+	-o-text-overflow: clip;
+	text-overflow: clip;
+	letter-spacing: 3px;
+	text-shadow: -3px 0 1px rgb(30,242,241) , 3px 0 1px rgb(246,5,10) ;
+  }
+  .anaglyph {
+      -webkit-box-sizing: content-box;
+      -moz-box-sizing: content-box;
+      box-sizing: content-box;
+      border: none;
+      font: normal 1.5em/normal "Chau Philomene One", Helvetica, sans-serif;
+      color: rgb(51, 51, 51);
+      text-align: center;
+      -o-text-overflow: clip;
+      text-overflow: clip;
+      letter-spacing: 3px;
+      text-shadow: -3px 0 1px rgb(30,242,241) , 3px 0 1px rgb(246,5,10) ;
+    }
+    
+.littleImgProfile{
+    height: 4.2em;
+    width: 4.2em;
+    border-radius: 50%;
+    border:1px solid black;
+    position: relative; 
+    top: 10%; 
+    left: 10%;
+}

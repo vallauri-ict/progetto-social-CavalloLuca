@@ -1,0 +1,49 @@
+[{
+  "_id": "|4",
+  "username": "ale_fix",
+  "myFotos": [],
+  "myLikesPut": [],
+  "totCoinProfilo": 0,
+  "followers": [],
+  "followed": [],
+  "fotoProfilo": "",
+  "biografia": "Ciao a tutti ragazzi, sono Ale",
+  "password": "$2a$10$i/fvlSSgUfHMd6r9IaAsFufjle.zhFYklasboEAvZmu5hUGo6GARW",
+  "rooms": []
+},{
+  "_id": "|1",
+  "username": "zio.nini",
+  "myFotos": [],
+  "totCoinProfilo": 0,
+  "followers": [],
+  "followed": [],
+  "fotoProfilo": "",
+  "biografia": "",
+  "password": "$2a$10$VhCQE2xX9HPVc.5jANScnexKTmskMzS7WxLbDXx9cAOSX3Zd.Cyki",
+  "rooms": [],
+  "myLikesPut": []
+},{
+  "_id": "|3",
+  "username": "aldo.celaj",
+  "myFotos": [],
+  "myLikesPut": [],
+  "totCoinProfilo": 0,
+  "followers": [],
+  "followed": [],
+  "fotoProfilo": "",
+  "biografia": "Abito a Cherasco e gioco a calcio.",
+  "password": "$2a$10$V5HSDLi9DG.wdsHfuJiVE.bWOUsF1Hbjvy2nt.Jj0H98697rnmRPa",
+  "rooms": []
+},{
+  "_id": "|2",
+  "username": "lucogol",
+  "myFotos": [],
+  "totCoinProfilo": 0,
+  "followers": [],
+  "followed": [],
+  "fotoProfilo": "",
+  "biografia": "Benvenuti a tutti",
+  "password": "$2a$10$c8YX/9lez7tzPaqRALf/3O2Ljd5b32eDG1hjMZRAt9/RZXYjbHKNO",
+  "myLikesPut": [],
+  "rooms": []
+}]

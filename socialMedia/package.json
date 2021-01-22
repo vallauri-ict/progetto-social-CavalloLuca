@@ -1,0 +1,37 @@
+{
+  "name": "socialmedia",
+  "version": "1.0.0",
+  "description": "Progetto di socialMedia. Camoscini, Cavallo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git.heroku.com/socialmedia-camoscinicavallo.git"
+  },
+  "author": "Camoscini Daniele, Cavallo Luca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git.heroku.com/socialmedia-camoscinicavallo/issues"
+  },
+  "homepage": "https://github.com/git.heroku.com/socialmedia-camoscinicavallo#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "constants": "0.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "http2": "^3.3.7",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.3",
+    "querystring": "^0.2.0",
+    "socket.io": "^3.1.0"
+  }
+}

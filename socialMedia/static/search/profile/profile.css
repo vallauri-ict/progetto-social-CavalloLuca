@@ -1,0 +1,69 @@
+body{
+    overflow-x: hidden;
+    position:fixed;
+}
+a{
+    color: black;
+}
+a:hover{
+    color:black;
+}
+
+#bio div span{
+    display: inline-block;
+    text-align: left;
+    font-size: 24pt;
+    word-wrap:break-word;
+    width: 100%;
+}
+
+#bio > div > a {
+    margin: 0 auto;
+    position: absolute;
+    line-height: 3em;
+}
+
+#btns{
+    margin-top:1%;
+}
+
+#btns div button {
+    height: 2.5em;
+    width: 80%;
+    line-height: 2.5em;
+    vertical-align: middle;
+    background-color: #BBB;
+    border-radius: 5%;
+    border:1px solid #BBB;
+    font-weight: bold;
+}
+
+#imgCoin{
+    width: 100%;
+    height: 100%;
+    /*background-color: rgba(50, 50, 50, 0.5);*/
+}
+
+#imgProfilo{
+    width: 20em;
+    height:20em;
+    /*background-image: url(../../img/foto_profilo.JPG);*/
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    border: 1px solid black;
+}
+
+.allFoto div{
+    width: 100%;
+    height: 300px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    /*border: 1px solid black;*/
+}
+
+
+#foto{
+    overflow: scroll;
+}

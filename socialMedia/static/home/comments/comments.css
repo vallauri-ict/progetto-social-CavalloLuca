@@ -1,0 +1,30 @@
+body{
+    overflow-x: hidden;
+    height: 100%;
+}
+
+html{
+    height: 100%;
+}
+
+.container-fluid{
+    height: 100%;
+}
+
+td{
+    padding: 0px!important;
+}
+
+#commenti{
+    padding:10%!important;
+    height: 100%;
+    overflow: scroll;
+}
+
+p{
+    margin-left: 10px;
+}
+
+.comment{
+    display: inline;
+}

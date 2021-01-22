@@ -1,0 +1,44 @@
+.container-fluid{
+    padding: 0px;
+    height: 100%;
+    z-index: -1;
+}
+
+#navBar{
+    padding:  3%;
+    background-color: #BBB;
+    width: 100%;
+    margin: 0px;
+}
+html{
+    height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+a{
+ color: black;
+}
+a:hover{
+    color: black;
+}
+
+#header{
+    width: 100%;
+    margin: 0px!important;
+    padding: 3%;
+    background-color: #BBB;
+    text-align: center;
+}
+table{
+    height: 100%;
+    width: 100%;
+}
+td{
+    padding: 0px!important;
+}
+
+.notSelected{
+    color:black;
+}

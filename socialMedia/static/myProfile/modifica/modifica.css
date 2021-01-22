@@ -1,0 +1,19 @@
+body{
+    overflow-x: hidden;
+}
+
+.row{
+    width:100%;
+}
+
+#btnModifica{
+    width: 100%;
+}
+
+.container-fluid{
+    text-align: center;
+    font-size: 1.3em;
+}
+input, textarea{
+    font-size: 1.3em!important;
+}

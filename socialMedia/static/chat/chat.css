@@ -1,0 +1,42 @@
+body{
+    overflow-x: hidden;
+}
+a{
+    color: black;
+}
+a:hover{
+    color:black;
+}
+input, button{
+    height: 100%;
+    margin: 0px;
+}
+.colHead{
+    margin: 0px!important;
+}
+#txtSearch{
+    height: 100%;
+    background-color: #BBB!important;
+    color: black!important;
+    font-size: 20pt;
+}
+#rowSearch{
+    height: 2.7em;
+}
+
+.dm{
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+}
+
+.row div:nth-of-type(3) svg{
+    position: relative; 
+    top: 27%; 
+    left: 27%;
+}
+#dropdownList{
+    width: 100%!important;
+}
+.dropdown-item{
+    font-size:0.7em!important;
+}

@@ -1,0 +1,52 @@
+.message-container-user{
+    text-align: left;
+    display:inline-block;
+    width: 48%;
+    padding: 2%;
+    position: relative;
+    left: 52%;
+    top: auto;
+    border-radius: 30px;
+    background-color: lightskyblue;
+    font-size: 1em;
+}
+
+.message-container-friend{
+    text-align: left;
+    display:inline-block;
+    width: 48%;
+    padding: 2%;
+    border-radius: 30px;
+    background-color: lightgray;
+    font-size: 1em;
+    position: relative;
+    top: auto;
+}
+
+#btnInvia{
+    text-align: right;
+}
+
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+}
+
+.container-fluid{
+    height: 100%;
+}
+td{
+    padding: 0px!important;
+}
+input, button{
+    height: 100%;
+    background-color: #BBB!important;
+    color: black!important;
+    font-size: 20pt!important;
+}
+#wrapper{
+    height: 100%;
+    overflow: scroll;
+}
